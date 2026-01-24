@@ -1,0 +1,6 @@
+--- Loading Model: meta-llama/Meta-Llama-3-8B-Instruct ---
+Starting evaluation on 3610 examples...
+Generation error: CUDA out of memory. Tried to allocate 6.27 GiB. GPU 0 has a total capacity of 15.77 GiB of which 4.64 GiB is free. Including non-PyTorch memory, this process has 11.13 GiB memory in use. Of the allocated memory 9.47 GiB is allocated by PyTorch, and 1.29 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+Done! Results saved to results_meta-llama__Meta-Llama-3-8B-Instruct.jsonl
+Total time: 268.25 minutes
