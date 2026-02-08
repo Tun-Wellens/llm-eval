@@ -22,3 +22,11 @@ uv run streamlit run human_annotator.py
 
 **Other:**
 - `job_logs/` - HPC job logs (SLURM)
+
+**dotenv**
+```
+OPENAI_API_KEY = sk-proj-Aaaabbbcccc
+
+GOOGLE_API_KEY = Aaaabbbcccc
+
+HUGGINGFACEHUB_API_TOKEN = hf_Aaaabbbcccc
